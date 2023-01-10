@@ -18,6 +18,9 @@
 <div align="center">
 
   <a href="https://instagram.com/gzferrar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/gzferrar" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  
+  
   <a href = "mailto:gzferrar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilhermeferrari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mbGlwZXJhbWFkZWJvdGVjby5jb20vZmVlZC9wb2RjYXN0Lw?sa=X&ved=0CAMQ4aUDahcKEwjYpt6N1KnzAhUAAAAAHQAAAAAQAQ&hl=pt-BR" target="_blank"><img src="https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white" target="_blank"></a> 
